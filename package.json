@@ -1,0 +1,16 @@
+{
+  "name": "easemob-dynamic-token-generator-demo",
+  "version": "1.0.0",
+  "description": "基于 Node.js Express 的动态令牌生成服务，用于生成环信即时通讯普通用户登录所需的身份验证令牌。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "express": "^4.21.2"
+  }
+}
